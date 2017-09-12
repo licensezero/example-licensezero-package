@@ -1,0 +1,7 @@
+{
+  "name": "example-licensezero-package",
+  "version": "0.0.0",
+  "description": "a License Zero test package",
+  "author": "Kyle E. Mitchell <kyle@artlessdevices.com>",
+  "repository": "licensezero/example-licensezero-package"
+}
