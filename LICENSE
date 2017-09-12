@@ -1,0 +1,63 @@
+License Zero Public License 1.0.0
+
+Copyright Kyle E. Mitchell
+          US-CA (ISO 3166-2)
+
+          Ed25519: 0374a100b11660b7acb294e9db0cc1c3
+                   3e5261a537079dd17b4dacbf80cff3c4
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1.  Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+
+2.  Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer
+    in the documentation and/or other materials provided with the
+    distribution.
+
+3.  Use, but not redistribution, in any manner primarily intended
+    for or directed toward commercial advantage or private monetary
+    compensation, must be limited to a period of 90 consecutive
+    calendar days. This condition does not apply to use primarily
+    intended for or directed toward contribution of feedback or
+    modifications to the copyright owner. The conditions of this
+    paragraph are waived if licenses on other terms cease to be
+    available via the following agent, or a successor named in a
+    subsequent release, for 90 consecutive calendar days:
+
+        Artless Devices LLC
+        https://licensezero.com
+        Project: e91fcaa8-1d80-4d3f-97aa-5b58b93e4662
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+Licensor Signature (Ed25519):
+
+fa4e3c5deabad31718b94c30263d7065
+d8e31cbf5dcb2b4ab04b5aa448affbfd
+0dc4e2ac982ef16e1a092fa72c855c28
+b15c55b82c12595a38ab6662de5bd804
+
+---
+
+Agent Signature (Ed25519):
+
+ff79a9eed9eb2b091e5c1ebe55588a9a
+acf9ae50f65a0e153161c9d643e43fbc
+196fd511333db8294231fd781dc1a854
+e2eaeda6c59b6909667f5748887c4e07
