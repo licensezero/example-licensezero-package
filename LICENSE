@@ -1,65 +1,59 @@
-License Zero Reciprocal Public License 2.0.1
+The Parity Public License 2.1.0
 
-Copyright: Kyle E. Mitchell
+Copyright Notice: Kyle E. Mitchell
 
-Source: https://github.com/licensezero/example-licensezero-package
+Source Notice: https://github.com/licensezero/example-licensezero-package
+
+This license lets you use and share this software for free, as
+long as you release any software you make with it. Specifically:
+
+If you follow the rules below, you may do everything with
+this software that would otherwise infringe my copyright in
+it or any patent claim I can license that you would infringe
+by using this software as of my latest contribution.
+
+1. Release source code for changes you make to this software.
+
+2. If you run or combine this software with other software in
+   any larger program, release all source code for that program.
+
+3. Release all source code for software that you analyze,
+   change, or otherwise make using this software.
+
+4. Ensure everyone who gets a copy of this software from you,
+   in source code or any other form, gets the text of this
+   license and the copyright and source notices above.
+
+5. Do not make any legal claim against anyone for infringing
+   any patent claim they would infringe by using this software
+   alone, accusing this software, with or without changes,
+   alone or as part of a larger program.
+
+To release source code, publish the preferred form for making
+changes through a freely accessible distribution system widely
+used for similar source code, and license additional work on
+terms at least as permissive as this license. If source code
+has already been released, you do not have to release it again.
+
+You are excused for unknowingly breaking 1, 2, or 3 if you
+release source code, or stop doing anything requiring this
+license, within 30 days of learning you broke the rule.
 
 **This software comes as is, without any warranty at all. As far
 as the law allows, I will not be liable for any damages related
 to this software or this license, for any kind of legal claim.**
 
-As long as you meet the conditions below, you may do everything
-with this software that would otherwise infringe my copyright in
-it or any covered patent claim. Your permission covers a patent
-claim that I can license, or become able to license, if you would
-infringe it by using this software as of my latest contribution.
-
-1. You must ensure that everyone who gets a copy of this software
-   from you, in source code or any other form, also gets the
-   complete text of this license and the copyright and source
-   notices above.
-
-2. You must not make any legal claim against anyone for
-   infringing any patent claim they would infringe by using this
-   software alone, accusing this software, with or without
-   changes, alone or combined into a larger program.
-
-3. If you change this software, you must release source code for
-   your changes.
-
-4. If you combine this software with other software into a larger
-   program, you must release any source code for that larger
-   program that has not yet been released.
-
-5. If you run this software to analyze, change, or generate
-   software, you must release source code for that software that
-   has not yet been released.
-
-Releasing source code means publicly licensing it under either
-this license or a license approved by the Open Source Initiative,
-and promptly publishing it, in the preferred form for making
-changes, to a freely accessible distribution system widely used
-for similarly licensed source code.
-
-Any unknowing failure to meet condition 3, 4, or 5 is excused if
-you release source code as required, or stop doing anything
-requiring permission under this license, within 30 days of
-learning that this license required you to release source code.
 
 ---
 
 Licensor Signature (Ed25519):
 
-1fb4948f2a7a5f745f1776f3a8185938
-4af4b23e63c67be8b0c07a2b68c86665
-db0bf66755e01f57d569390e9be04577
-966cc6bc6bcefaed51a2feefd1606a0c
+6e14624367f4f7db71fb290b06b946147db54afd27331bcb866849fd394480cf
+1d4e179876662d5eacc048beb341d7a7be6c270e4618ae307a6bd7d69b207903
 
 ---
 
 Agent Signature (Ed25519):
 
-0775b7d23bf7d4f06d692a71d13602e3
-faf847c0f1bae253aa7da725fba148c0
-072153cf56a8c2194fc1b19c2985a4b6
-7a5aa2302b402e14dc9b53c82e793106
+9aaab6e8158205a7e0dbefb944195d79d5fcce61c942d9b8250cd5fe8c2d3a77
+dd880ba1ed4fda4c33f34d7f2c7d73aa8d8576a24b0b4684df3e35d64ef98703
