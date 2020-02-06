@@ -1,18 +1,8 @@
 {
-  "version": "",
-  "licensezero": [
+  "offers": [
     {
-      "agentSignature": "f8197de650cddab637f7a36b4a1696201a40922e2e8a2d9725a9f7a5a014c2efb97472beba497b6f41dd4d690ae2cb5ac2e3a939ccf45d3470df289cab4ff907",
-      "license": {
-        "homepage": "https://github.com/licensezero/example-licensezero-package",
-        "jurisdiction": "US-CA",
-        "name": "Kyle E. Mitchell",
-        "projectID": "e91fcaa8-1d80-4d3f-97aa-5b58b93e4662",
-        "publicKey": "0374a100b11660b7acb294e9db0cc1c33e5261a537079dd17b4dacbf80cff3c4",
-        "terms": "parity",
-        "version": "2.1.0"
-      },
-      "licensorSignature": "d0d314e8f8d6e74c7c57ed5d7577bb37e13bfbd3cacfb21be26abd2987fee4c13246456e1f2a19474ced382f4f11983e5a5134e35e50a50eeaed8ed8474d9a0f"
+      "api": "https://api.licensezero.com",
+      "offerID": "e91fcaa8-1d80-4d3f-97aa-5b58b93e4662"
     }
   ]
 }
